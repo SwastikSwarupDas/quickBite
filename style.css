@@ -793,10 +793,10 @@ button{
     }
 
     #blank-work{
-        height:60px;
-        width: 240px;
+        height:50px;
+        width: 140px;
         border-radius: 25px;
-        font-size: 5.5vw;
+        font-size: 4vw;
         border: 2px solid rgb(20,20,90);
         background-color: rgba(0,0,0,0);
         color: rgb(20,20,90);  
