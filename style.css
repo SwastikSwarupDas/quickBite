@@ -644,6 +644,7 @@ button{
     .howit i{
         font-size: 8vw;
         font-weight: 700;
+        color: #0000002d;
     }
     
     .steps{
@@ -687,7 +688,7 @@ button{
         flex-direction: column;
         align-items: center;
         justify-content: space-evenly;
-        border-bottom: 3px solid #000;
+        border-bottom: 3px solid #0000002d;
         padding-bottom: 8vw;
     }
     
@@ -697,16 +698,17 @@ button{
         flex-direction: column;
         align-items: center;
         padding: 0vw 0vw;
-        margin-top: -5vw;
         justify-content: space-evenly;
     }
 
     .info div h1,.info-end div h1{
-        font-size: 13vw;
+        font-size: 7vw;
     }
     
     .info div p, .info-end div p{
-        font-size: 5.5vw;
+        font-size: 4.5vw;
+        font-weight: 200;
+        color: rgb(70,70,90);
         margin: 17px 0;
     }
     
