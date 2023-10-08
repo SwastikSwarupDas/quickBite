@@ -102,9 +102,6 @@ input{
     font-size: 1em;
 }
 
-.works{
-    height: 35vw;
-}
 
 .howit{
     height: 6vw;
@@ -347,9 +344,7 @@ button{
         font-size: 1em;
     }
     
-    .works{
-        height: 35vw;
-    }
+ 
     
     .howit{
         height: 6vw;
@@ -624,9 +619,7 @@ button{
         font-size: 1em;
     }
     
-    .works{
-        height: 35vw;
-    }
+  
     
     .howit{
         height: 1vw;
@@ -649,7 +642,7 @@ button{
     }
     
     .steps{
-        height: 280vw;
+     
         display: flex;
         flex-direction: column;
         align-items: center;
@@ -666,20 +659,22 @@ button{
     
     .step h1{
         margin: 1vw 0;
-        font-size: 14vw;
+        font-size: 7vw;
     }
     
     .step p{
-        font-size: 4.8vw;
+        font-size: 4.5vw;
+        font-weight: 200;
+        color: rgb(70,70,90);
     }
     
     .step img{
-        width: 50vw;
-        height: 50vw;
+        width: 30vw;
+        height: 30vw;
     }
     
     .inforita{
-        margin-top: 270vw;
+       
         display: flex;
         flex-direction: column;
     }
@@ -694,7 +689,7 @@ button{
     }
     
     .info div, .info-end div{
-        width: 85vw;
+        width: 80vw;
         display: flex;
         flex-direction: column;
         align-items: center;
@@ -753,7 +748,7 @@ button{
     }
 
     .info img,.info-end img{
-        width: 110%;
+        width: 60%;
     }
     
     .download{
